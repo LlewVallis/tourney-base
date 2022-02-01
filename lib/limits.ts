@@ -1,0 +1,3 @@
+export const MAX_USER_TOURNEYS = 1024;
+export const MAX_TOURNEY_PARTICIPANTS = 1024;
+export const MAX_TOURNEY_MATCH_RESULTS = 2048;
